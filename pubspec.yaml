@@ -1,7 +1,7 @@
 name: charts_flutter_fork
-version: 0.13.1
+version: 0.13.2
 description: Material Design charting library for flutter works with flutter 3.24.5.
-homepage: https://github.com/hosniezzeldin/charts
+homepage: https://github.com/hosniezzeldin/charts_flutter_fork
 
 environment:
   sdk: '>=2.12.0 <4.0.0'
